@@ -1,0 +1,20 @@
+{
+  "name": "demo-css-selector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lutrinh05/Location-element-by-DOM-CSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lutrinh05/Location-element-by-DOM-CSS/issues"
+  },
+  "homepage": "https://github.com/lutrinh05/Location-element-by-DOM-CSS#readme",
+  "description": ""
+}
